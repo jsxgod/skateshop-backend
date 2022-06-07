@@ -1,2 +1,2 @@
 # skateshop-backend
-Production backend for https://github.com/jsxgod/skate-shop
+Production back-end for https://github.com/jsxgod/skate-shop
